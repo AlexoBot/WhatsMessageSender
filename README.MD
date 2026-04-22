@@ -1,5 +1,7 @@
 # WhatsApp Message Scheduler
 
+This code is a personal invention of mine that I used privately, but I recently took it on as a project to improve and publish for anyone who wishes to improve on it as well. I used AI to write the documentation, creating setup_scheduler.py and some small corrections within functions.py; everything else was written by me over 3 years ago.
+
 A Python-based automation tool for scheduling and sending WhatsApp messages and attachments using Selenium WebDriver. Designed for daily planning document distribution with built-in testing and anti-spam measures.
 
 ## Overview
